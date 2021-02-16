@@ -1,0 +1,19 @@
+{
+    "Villains" : {
+        "date" : "2-14-2021",
+        "outcome" : "win",
+        "score" : 1234567,
+        "enemeyScore" : 987654
+    },
+    "Sinolewd" : [{
+        "date" : "2-15-2021",
+        "outcome" : "win",
+        "score" : 1234568,
+        "enemeyScore" : 987653
+    },{
+        "date" : "2-16-2021",
+        "outcome" : "loss",
+        "score" : 123456,
+        "enemeyScore" : 1234558
+    }]
+}

@@ -1,0 +1,21 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  body {
+    background-color: #e0e0e0;
+  }
+  
+  .container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: Roboto;
+  }
+  
+  @media only screen and (max-width: 770px) {
+    .container {
+      margin: 0 10%;
+    }
+  }
